@@ -11,8 +11,7 @@ const IndexPage = () => (
     <h1>Hi people</h1>
     <p>Ready to get Loc'tin? </p>
     <p>View the prediction categories below.</p>
-  <form action="https://www.w3docs.com/">
-         <button type="submit">Political predictions</button>
+         <button>=Political Predictions</button>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
