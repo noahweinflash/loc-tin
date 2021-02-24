@@ -11,7 +11,9 @@ const IndexPage = () => (
     <h1>Hi people</h1>
     <p>Ready to get Loc'tin? </p>
     <p>View the prediction categories below.</p>
-         <button>=Political Predictions</button>
+         <button>Political Predictions</button>
+         <button>Sports Predictions</button>
+         <button>Stock Market Predictions</button>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
